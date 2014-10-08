@@ -12,6 +12,11 @@
     http://nodejs.org/
   - Node.js 日本ユーザグループ  
     http://nodejs.jp/
+- community
+  - google group  
+    https://groups.google.com/forum/#!forum/nodejs
+  - google group(Japanese)  
+    https://groups.google.com/forum/#!forum/nodejs_jp
 - framework
   - express(MVC framework)  
     http://expressjs.com/
