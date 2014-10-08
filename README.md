@@ -65,6 +65,8 @@
 - CI
   - jenkins  
     http://jenkins-ci.org/
+  - EC2にJenkinsによるCI環境を作成する  
+    http://dev.classmethod.jp/cloud/aws/jenkins_on_ec2/
 - devops
   - chef  
     https://www.getchef.com/solutions/devops/
