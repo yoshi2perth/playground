@@ -61,6 +61,11 @@
   - official  
     http://jenkins-ci.org/
 
+## chef
+- chef
+  - oficial  
+    https://www.getchef.com/solutions/devops/
+
 ## Agile
 
 - texts
