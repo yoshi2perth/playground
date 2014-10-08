@@ -55,17 +55,6 @@
   - how to create a private npmjs repository  
     http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository
   
-## jenkins
-
-- jenkins
-  - official  
-    http://jenkins-ci.org/
-
-## chef
-- chef
-  - oficial  
-    https://www.getchef.com/solutions/devops/
-
 ## Agile
 
 - texts
@@ -73,4 +62,9 @@
     http://www.cs.umss.edu.bo/doc/material/mat_gral_130/the_agile_samurai.pdf#search='Agile+Samurai'
   - 『アジャイルサムライ』のサポートページです  
     https://github.com/agile-samurai-ja/support
-
+- CI
+  - jenkins  
+    http://jenkins-ci.org/
+- devops
+  - chef  
+    https://www.getchef.com/solutions/devops/
