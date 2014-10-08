@@ -54,7 +54,7 @@
     http://johnhamelink.com/testing-nodejs-with-jenkins.html
   - how to create a private npmjs repository  
     http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository
-  
+
 ## Agile
 
 - texts
@@ -70,3 +70,14 @@
     https://www.getchef.com/solutions/devops/
   - Puppet  
     http://puppetlabs.com/
+
+## interests
+
+- RabbitMQ
+  - official  
+    http://www.rabbitmq.com/
+  - AMQP(wikipedia)
+    http://ja.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
+- Erlang
+  - official  
+    http://www.erlang.org/
