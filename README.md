@@ -55,6 +55,21 @@
   - how to create a private npmjs repository  
     http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository
 
+## nosql
+
+- CouchDB
+  - official  
+    http://couchdb.apache.org/
+- MongoDB
+  - official  
+    http://www.mongodb.org/
+- redis
+  - official  
+    http://redis.io/
+- Cassandra
+  - official  
+    http://cassandra.apache.org/
+
 ## Agile
 
 - texts
