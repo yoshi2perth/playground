@@ -2,7 +2,7 @@
 
 ## git & github
 
-- GitHub Flavored Markdown
+- GitHub Flavored Markdown  
   https://help.github.com/articles/github-flavored-markdown/
 
 ## node.js
