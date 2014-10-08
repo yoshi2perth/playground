@@ -72,6 +72,8 @@
     https://www.getchef.com/solutions/devops/
   - Puppet  
     http://puppetlabs.com/
+  - Vagrant  
+    https://www.vagrantup.com/
 
 ## misc.
 
