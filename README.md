@@ -79,11 +79,6 @@
 
 ## misc.
 
-- virtualization
-  - VMWare  
-    http://www.vmware.com/
-  - VirtualBox  
-    https://www.virtualbox.org/
 - cloud computing
   - AWS  
     http://aws.amazon.com/jp/
