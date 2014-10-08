@@ -76,10 +76,10 @@
 - AMQP
   - wikipedia  
     http://ja.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
-  - RabbitMQ
+  - RabbitMQ  
     http://www.rabbitmq.com/
 - language
-  - Erlang
+  - Erlang  
     http://www.erlang.org/
   - swift  
     https://developer.apple.com/swift/
