@@ -8,6 +8,8 @@
   - GitHub Flow  
     http://scottchacon.com/2011/08/31/github-flow.html
 - markdown
+  - Markdown Basics  
+    https://help.github.com/articles/markdown-basics/
   - GitHub Flavored Markdown  
     https://help.github.com/articles/github-flavored-markdown/
 
