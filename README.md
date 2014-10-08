@@ -30,6 +30,9 @@
     https://github.com/expressjs/express-resource
   - hapi.js(MVC framework)  
     http://hapijs.com/
+- TDD
+  - mocha
+    http://visionmedia.github.io/mocha/
 - events
   - nodeconf.eu  
     http://nodeconf.eu/
