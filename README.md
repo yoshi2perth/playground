@@ -67,6 +67,8 @@
     http://jenkins-ci.org/
   - EC2にJenkinsによるCI環境を作成する  
     http://dev.classmethod.jp/cloud/aws/jenkins_on_ec2/
+  - Vagrant + Jenkins の CI を AWS でも回す  
+    http://d.hatena.ne.jp/naoya/20130521/1369102714
 - devops
   - chef  
     https://www.getchef.com/solutions/devops/
