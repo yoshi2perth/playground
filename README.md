@@ -35,6 +35,8 @@
     http://visionmedia.github.io/mocha/
   - vows - Asynchronous behaviour driven development for Node.  
     http://vowsjs.org/
+  - should.js - BDD style assertions for node.js  
+    https://github.com/visionmedia/should.js/
   - Testing NodeJS with Jenkins  
     http://johnhamelink.com/testing-nodejs-with-jenkins.html
 - events
