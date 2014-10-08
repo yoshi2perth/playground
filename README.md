@@ -30,9 +30,11 @@
     https://github.com/expressjs/express-resource
   - hapi.js(MVC framework)  
     http://hapijs.com/
-- TDD
+- TDD & BDD
   - mocha  
     http://visionmedia.github.io/mocha/
+  - vows - vAsynchronous behaviour driven development for Node.  
+    http://vowsjs.org/
 - events
   - nodeconf.eu  
     http://nodeconf.eu/
