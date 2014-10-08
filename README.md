@@ -2,6 +2,9 @@
 
 ## git & github
 
+- work flow  
+  - git-flow
+    http://nvie.com/posts/a-successful-git-branching-model/
 - GitHub Flavored Markdown  
   https://help.github.com/articles/github-flavored-markdown/
 
