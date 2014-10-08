@@ -35,7 +35,7 @@
     https://github.com/expressjs/express-resource
   - hapi.js(MVC framework)  
     http://hapijs.com/
-- TDD & BDD
+- tdd & bdd
   - mocha - the fun, simple, flexible JavaScript test framework  
     http://visionmedia.github.io/mocha/
   - vows - Asynchronous behaviour driven development for Node.  
