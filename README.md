@@ -1,6 +1,6 @@
 # README.md
 
-## git & github
+## git
 
 - work flow  
   - git-flow  
