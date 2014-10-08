@@ -3,10 +3,13 @@
 ## git & github
 
 - work flow  
-  - git-flow
+  - git-flow  
     http://nvie.com/posts/a-successful-git-branching-model/
-- GitHub Flavored Markdown  
-  https://help.github.com/articles/github-flavored-markdown/
+  - GitHub Flow  
+    http://scottchacon.com/2011/08/31/github-flow.html
+- markdown
+  - GitHub Flavored Markdown  
+    https://help.github.com/articles/github-flavored-markdown/
 
 ## node.js
 
