@@ -41,3 +41,8 @@
   - how to create a private npmjs repository  
     http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository
   
+## jenkins
+
+- jenkins
+  - official  
+    http://jenkins-ci.org/
