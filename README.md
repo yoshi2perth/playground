@@ -72,11 +72,16 @@
     https://www.getchef.com/solutions/devops/
   - Puppet  
     http://puppetlabs.com/
-  - Vagrant  
-    https://www.vagrantup.com/
 
 ## misc.
 
+- virtualization
+  - VMWare  
+    http://www.vmware.com/
+  - VirtualBox 
+    https://www.virtualbox.org/
+  - Vagrant  
+    https://www.vagrantup.com/
 - AMQP
   - wikipedia  
     http://ja.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
