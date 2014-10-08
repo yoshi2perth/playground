@@ -72,6 +72,8 @@
     https://www.getchef.com/solutions/devops/
   - Puppet  
     http://puppetlabs.com/
+  - Vagrant - Create and configure lightweight, reproducible, and portable development environments.  
+    https://www.vagrantup.com/
 
 ## misc.
 
@@ -80,8 +82,6 @@
     http://www.vmware.com/
   - VirtualBox  
     https://www.virtualbox.org/
-  - Vagrant - Create and configure lightweight, reproducible, and portable development environments.  
-    https://www.vagrantup.com/
 - cloud computing
   - AWS  
     http://aws.amazon.com/jp/
