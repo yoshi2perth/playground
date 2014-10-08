@@ -82,6 +82,12 @@
     https://www.virtualbox.org/
   - Vagrant - Create and configure lightweight, reproducible, and portable development environments.  
     https://www.vagrantup.com/
+- cloud computing
+  - AWS  
+    http://aws.amazon.com/jp/
+  - OpenStack  
+    http://www.openstack.org/  
+    http://openstack.jp/ - 日本OpenStackユーザ会
 - AMQP
   - wikipedia  
     http://ja.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
