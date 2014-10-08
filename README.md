@@ -12,6 +12,9 @@
     https://help.github.com/articles/markdown-basics/
   - GitHub Flavored Markdown  
     https://help.github.com/articles/github-flavored-markdown/
+- Octocat
+  - Octodex  
+    https://octodex.github.com/
 
 ## node.js
 
