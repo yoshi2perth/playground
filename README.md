@@ -68,3 +68,5 @@
 - devops
   - chef  
     https://www.getchef.com/solutions/devops/
+  - Puppet  
+    http://puppetlabs.com/
