@@ -10,7 +10,9 @@
 - node.js  
   http://nodejs.org/
 - framework
-  - express  
+  - express(MVC framework)  
     http://expressjs.com/
-  - hapi.js  
+  - express-resource(RESTfull API framework)  
+    https://github.com/expressjs/express-resource
+  - hapi.js(MVC framework)  
     http://hapijs.com/
