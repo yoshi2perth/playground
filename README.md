@@ -55,21 +55,6 @@
   - how to create a private npmjs repository  
     http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository
 
-## nosql
-
-- CouchDB
-  - official  
-    http://couchdb.apache.org/
-- MongoDB
-  - official  
-    http://www.mongodb.org/
-- redis
-  - official  
-    http://redis.io/
-- Cassandra
-  - official  
-    http://cassandra.apache.org/
-
 ## Agile
 
 - texts
@@ -86,13 +71,24 @@
   - Puppet  
     http://puppetlabs.com/
 
-## interests
+## misc.
 
-- RabbitMQ
-  - official  
-    http://www.rabbitmq.com/
-  - AMQP(wikipedia)
+- AMQP
+  - wikipedia  
     http://ja.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
-- Erlang
-  - official  
+  - RabbitMQ
+    http://www.rabbitmq.com/
+- language
+  - Erlang
     http://www.erlang.org/
+  - swift  
+    https://developer.apple.com/swift/
+- nosql
+  - CouchDB  
+    http://couchdb.apache.org/
+  - MongoDB  
+    http://www.mongodb.org/
+  - redis  
+    http://redis.io/
+  - Cassandra  
+    http://cassandra.apache.org/
