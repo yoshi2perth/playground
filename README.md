@@ -83,7 +83,7 @@
     http://www.erlang.org/
   - swift  
     https://developer.apple.com/swift/  
-    Swift を学べる記事のまとめ - http://dev.classmethod.jp/smartphone/iphone/learn-swift/
+    http://dev.classmethod.jp/smartphone/iphone/learn-swift/ - Swift を学べる記事のまとめ
 - nosql
   - CouchDB  
     http://couchdb.apache.org/
