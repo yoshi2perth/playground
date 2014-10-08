@@ -66,3 +66,6 @@
 - texts
   - agile samurai  
     http://www.cs.umss.edu.bo/doc/material/mat_gral_130/the_agile_samurai.pdf#search='Agile+Samurai'
+  - 『アジャイルサムライ』のサポートページです  
+    https://github.com/agile-samurai-ja/support
+
