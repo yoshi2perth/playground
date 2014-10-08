@@ -24,6 +24,9 @@
     https://github.com/expressjs/express-resource
   - hapi.js(MVC framework)  
     http://hapijs.com/
+- events
+  - nodeconf.eu  
+    http://nodeconf.eu/
 - tips
   - debugging  
     http://nodejs.org/api/debugger.html
