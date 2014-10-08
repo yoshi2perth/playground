@@ -82,7 +82,8 @@
   - Erlang  
     http://www.erlang.org/
   - swift  
-    https://developer.apple.com/swift/
+    https://developer.apple.com/swift/  
+    Swift を学べる記事のまとめ - http://dev.classmethod.jp/smartphone/iphone/learn-swift/
 - nosql
   - CouchDB  
     http://couchdb.apache.org/
