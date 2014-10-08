@@ -31,10 +31,12 @@
   - hapi.js(MVC framework)  
     http://hapijs.com/
 - TDD & BDD
-  - Mocha -  - the fun, simple, flexible JavaScript test framework  
+  - mocha - the fun, simple, flexible JavaScript test framework  
     http://visionmedia.github.io/mocha/
   - vows - Asynchronous behaviour driven development for Node.  
     http://vowsjs.org/
+  - Testing NodeJS with Jenkins  
+    http://johnhamelink.com/testing-nodejs-with-jenkins.html
 - events
   - nodeconf.eu  
     http://nodeconf.eu/
