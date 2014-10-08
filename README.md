@@ -80,7 +80,7 @@
     http://www.vmware.com/
   - VirtualBox  
     https://www.virtualbox.org/
-  - Vagrant  
+  - Vagrant - Create and configure lightweight, reproducible, and portable development environments.  
     https://www.vagrantup.com/
 - AMQP
   - wikipedia  
