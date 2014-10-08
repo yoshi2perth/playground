@@ -3,14 +3,14 @@
 ## git & github
 
 - GitHub Flavored Markdown  
-https://help.github.com/articles/github-flavored-markdown/
+  https://help.github.com/articles/github-flavored-markdown/
 
 ## node.js
 
-- node.js
+- node.js  
   http://nodejs.org/
 - framework
--- express
+-- express  
    http://expressjs.com/
--- hapi.js
+-- hapi.js  
    http://hapijs.com/
