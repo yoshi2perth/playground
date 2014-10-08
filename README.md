@@ -27,6 +27,8 @@
 - events
   - nodeconf.eu  
     http://nodeconf.eu/
+  - 東京Node学園祭2014  
+    http://nodefest.jp/2014/
 - tips
   - debugging  
     http://nodejs.org/api/debugger.html
