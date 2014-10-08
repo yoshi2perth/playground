@@ -16,3 +16,5 @@
     https://github.com/expressjs/express-resource
   - hapi.js(MVC framework)  
     http://hapijs.com/
+- how to make private npm.js repository  
+  http://www.clock.co.uk/blog/how-to-create-a-private-npmjs-repository
