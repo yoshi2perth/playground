@@ -9,8 +9,7 @@ function myco(func) {
 exports.wrap = function(func) {
     return function(args){
         func(args, function(err, files){
-            result = files;
-            gen.next(result);
+            gen.next(files);
         });
         return;
     };
